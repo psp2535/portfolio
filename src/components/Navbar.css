@@ -1,0 +1,24 @@
+/* Center the button at the right */
+.navbar .ml-auto {
+    display: flex;
+    align-items: center;
+  }
+  
+ 
+.connect-btn {
+  background-color: #5728b6;
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  margin-left: 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+  
+  height: 35px;
+}
+  
+  .connect-btn:hover {
+    background-color: #633eaf;
+  }
+  
