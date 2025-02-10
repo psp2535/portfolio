@@ -22,3 +22,8 @@
     background-color: #633eaf;
   }
   
+  .navbar {
+    height: 100px; /* Adjust height as needed */
+    padding: 5px 10px; /* Reduce padding */
+  }
+  
